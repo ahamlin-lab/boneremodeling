@@ -1,12 +1,52 @@
 ---
-title: art
+title: Bone Remodeling
 authors:
-  - name: Norah Jones
+  - name: Akeema Hamlin
     affiliation: The University
     roles: writing
     corresponding: true
 bibliography: references.bib
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+|  |
+|----|
+| "Bone Remodeling: Akeema Hamlin |
+| \## Why is Bones Remodeling Important |
+| \- Repairs damaged bone - Maintains bone strength - Helps regulate calcium levels in the blood |
+
+## Cells Involved in bone Remodeling
+
+-   Osteoclasts -\> break down old bone
+-   Osteoblasts -\>build new bone
+-   Osteocytes -\>maintain bone tissue
+
+------------------------------------------------------------------------
+
+## Bone Remodeling Process
+
+1 .Activation - remodeling begins 2. Resorption - osteoblasts break down bone
+
+## Calcium and Bone Remodeling
+
+-   Bone store calcium
+-   When the body needs calcium, bone is broken down
+-   Calcium is released into the bloodstream
+
+## Factors That Affect Bone Remodeling
+
+-   Age
+-   Diet (calcium and vitamin D)
+-   Physical activity
+-   Hormones
+
+## Bone Remodeling and Health
+
+-   Imbalance can cause bone diseases
+-   Example : Osteoporosis (bones become weak and fragile)
+
+### Conclusion
+
+-   Bone remodeling is essential for maintaining healthy bones
+-   It keeps bones strong and supports overall body function
+
+[@knuth84].
