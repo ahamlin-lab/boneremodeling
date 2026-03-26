@@ -17,8 +17,8 @@ bibliography: references.bib
 ## Cells Involved in bone Remodeling
 
 -   Osteoclasts -\> break down old bone
--   Osteoblasts -\>build new bone
--   Osteocytes -\>maintain bone tissue
+-   Osteoblasts -\> build new bone
+-   Osteocytes -\> maintain bone tissue
 
 ------------------------------------------------------------------------
 
