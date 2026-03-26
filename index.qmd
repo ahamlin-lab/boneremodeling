@@ -9,7 +9,7 @@ bibliography: references.bib
 ---
 
 |  |
-|----|
+|------------------------------------------------------------------------|
 | "Bone Remodeling: Akeema Hamlin |
 | \## Why is Bones Remodeling Important |
 | \- Repairs damaged bone - Maintains bone strength - Helps regulate calcium levels in the blood |
@@ -24,7 +24,9 @@ bibliography: references.bib
 
 ## Bone Remodeling Process
 
-1 .Activation - remodeling begins 2. Resorption - osteoblasts break down bone
+1 .Activation - remodeling begins
+
+2\. Resorption - osteoblasts break down bone
 
 ## Calcium and Bone Remodeling
 
