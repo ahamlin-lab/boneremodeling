@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>Bone Remodeling</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Hamlin</surname>
+<given-names>Akeema</given-names>
+</name>
+<string-name>Akeema Hamlin</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>The University</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1"></corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<table-wrap>
+  <table>
+    <colgroup>
+      <col width="100%" />
+    </colgroup>
+    <tbody>
+      <tr>
+        <td>“Bone Remodeling: Akeema Hamlin</td>
+      </tr>
+      <tr>
+        <td>## Why is Bones Remodeling Important</td>
+      </tr>
+      <tr>
+        <td>- Repairs damaged bone - Maintains bone strength - Helps
+        regulate calcium levels in the blood</td>
+      </tr>
+    </tbody>
+  </table>
+</table-wrap>
+<sec id="cells-involved-in-bone-remodeling">
+  <title>Cells Involved in bone Remodeling</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Osteoclasts -&gt; break down old bone</p>
+    </list-item>
+    <list-item>
+      <p>Osteoblasts -&gt;build new bone</p>
+    </list-item>
+    <list-item>
+      <p>Osteocytes -&gt;maintain bone tissue</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="bone-remodeling-process">
+  <title>Bone Remodeling Process</title>
+  <p>1 .Activation - remodeling begins</p>
+  <p>2. Resorption - osteoblasts break down bone</p>
+</sec>
+<sec id="calcium-and-bone-remodeling">
+  <title>Calcium and Bone Remodeling</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Bone store calcium</p>
+    </list-item>
+    <list-item>
+      <p>When the body needs calcium, bone is broken down</p>
+    </list-item>
+    <list-item>
+      <p>Calcium is released into the bloodstream</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="factors-that-affect-bone-remodeling">
+  <title>Factors That Affect Bone Remodeling</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Age</p>
+    </list-item>
+    <list-item>
+      <p>Diet (calcium and vitamin D)</p>
+    </list-item>
+    <list-item>
+      <p>Physical activity</p>
+    </list-item>
+    <list-item>
+      <p>Hormones</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="bone-remodeling-and-health">
+  <title>Bone Remodeling and Health</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Imbalance can cause bone diseases</p>
+    </list-item>
+    <list-item>
+      <p>Example : Osteoporosis (bones become weak and fragile)</p>
+    </list-item>
+  </list>
+  <sec id="conclusion">
+    <title>Conclusion</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Bone remodeling is essential for maintaining healthy
+        bones</p>
+      </list-item>
+      <list-item>
+        <p>It keeps bones strong and supports overall body function</p>
+      </list-item>
+    </list>
+    <p>(<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
+    1984</xref>).</p>
+  </sec>
+</sec>
+</body>
+
+<back>
+<ref-list>
+  <title></title>
+  <ref id="ref-knuth84">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Knuth</surname><given-names>Donald E.</given-names></name>
+      </person-group>
+      <article-title>Literate programming</article-title>
+      <source>Comput. J.</source>
+      <publisher-name>Oxford University Press, Inc.</publisher-name>
+      <publisher-loc>USA</publisher-loc>
+      <year iso-8601-date="1984-05">1984</year><month>05</month>
+      <volume>27</volume>
+      <issue>2</issue>
+      <issn>0010-4620</issn>
+      <uri>https://doi.org/10.1093/comjnl/27.2.97</uri>
+      <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
+      <fpage>97</fpage>
+      <lpage>111</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+
+
+</article>
