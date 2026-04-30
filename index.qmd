@@ -1,54 +1,17 @@
 ---
-title: Bone Remodeling
+title: "Bone Remodeling"
 authors:
-  - name: Akeema Hamlin
-    affiliation: The University
-    roles: writing
+  - name: "Akeema Hamlin"
+    affiliation: "The University"
+    roles: ["writing"]
     corresponding: true
 bibliography: references.bib
 ---
 
-|  |
-|------------------------------------------------------------------------|
-| "Bone Remodeling: Akeema Hamlin |
-| \## Why is Bones Remodeling Important |
-| \- Repairs damaged bone - Maintains bone strength - Helps regulate calcium levels in the blood |
+# Introduction
 
-## Cells Involved in bone Remodeling
+Bone remodeling is a continuous physiological process in which old or damaged bone is replaced with new bone to maintain skeletal integrity and mineral homeostasis. This process is essential for adapting to mechanical stress, repairing microdamage, and regulating calcium levels in the body. Research shows that bone remodeling is a highly coordinated cellular process optimized to preserve bone strength and ensure survival. 
 
--   Osteoclasts -\> break down old bone
--   Osteoblasts -\> build new bone
--   Osteocytes -\> maintain bone tissue
+# Importance of Bone Remodeling
 
-------------------------------------------------------------------------
-
-## Bone Remodeling Process
-
-1 .Activation - remodeling begins
-
-2\. Resorption - osteoblasts break down bone
-
-## Calcium and Bone Remodeling
-
--   Bone store calcium
--   When the body needs calcium, bone is broken down
--   Calcium is released into the bloodstream
-
-## Factors That Affect Bone Remodeling
-
--   Age
--   Diet (calcium and vitamin D)
--   Physical activity
--   Hormones
-
-## Bone Remodeling and Health
-
--   Imbalance can cause bone diseases
--   Example : Osteoporosis (bones become weak and fragile)
-
-### Conclusion
-
--   Bone remodeling is essential for maintaining healthy bones
--   It keeps bones strong and supports overall body function
-
-[@knuth84].
+Bone remodeling maintains bone mechanical competence by replacing old bone with newly formed bone without altering overall bone shape. It also plays a critical role in systemic mineral regulation, particularly calcium homeostasis. Disruptions in this balance can lead
