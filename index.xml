@@ -64,125 +64,27 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
 </front>
 
 <body>
-<table-wrap>
-  <table>
-    <colgroup>
-      <col width="100%" />
-    </colgroup>
-    <tbody>
-      <tr>
-        <td>“Bone Remodeling: Akeema Hamlin</td>
-      </tr>
-      <tr>
-        <td>## Why is Bones Remodeling Important</td>
-      </tr>
-      <tr>
-        <td>- Repairs damaged bone - Maintains bone strength - Helps
-        regulate calcium levels in the blood</td>
-      </tr>
-    </tbody>
-  </table>
-</table-wrap>
-<sec id="cells-involved-in-bone-remodeling">
-  <title>Cells Involved in bone Remodeling</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Osteoclasts -&gt; break down old bone</p>
-    </list-item>
-    <list-item>
-      <p>Osteoblasts -&gt; build new bone</p>
-    </list-item>
-    <list-item>
-      <p>Osteocytes -&gt; maintain bone tissue</p>
-    </list-item>
-  </list>
+<sec id="introduction">
+  <title>Introduction</title>
+  <p>Bone remodeling is a continuous physiological process in which old
+  or damaged bone is replaced with new bone to maintain skeletal
+  integrity and mineral homeostasis. This process is essential for
+  adapting to mechanical stress, repairing microdamage, and regulating
+  calcium levels in the body. Research shows that bone remodeling is a
+  highly coordinated cellular process optimized to preserve bone
+  strength and ensure survival.</p>
 </sec>
-<sec id="bone-remodeling-process">
-  <title>Bone Remodeling Process</title>
-  <p>1 .Activation - remodeling begins</p>
-  <p>2. Resorption - osteoblasts break down bone</p>
-</sec>
-<sec id="calcium-and-bone-remodeling">
-  <title>Calcium and Bone Remodeling</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Bone store calcium</p>
-    </list-item>
-    <list-item>
-      <p>When the body needs calcium, bone is broken down</p>
-    </list-item>
-    <list-item>
-      <p>Calcium is released into the bloodstream</p>
-    </list-item>
-  </list>
-</sec>
-<sec id="factors-that-affect-bone-remodeling">
-  <title>Factors That Affect Bone Remodeling</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Age</p>
-    </list-item>
-    <list-item>
-      <p>Diet (calcium and vitamin D)</p>
-    </list-item>
-    <list-item>
-      <p>Physical activity</p>
-    </list-item>
-    <list-item>
-      <p>Hormones</p>
-    </list-item>
-  </list>
-</sec>
-<sec id="bone-remodeling-and-health">
-  <title>Bone Remodeling and Health</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Imbalance can cause bone diseases</p>
-    </list-item>
-    <list-item>
-      <p>Example : Osteoporosis (bones become weak and fragile)</p>
-    </list-item>
-  </list>
-  <sec id="conclusion">
-    <title>Conclusion</title>
-    <list list-type="bullet">
-      <list-item>
-        <p>Bone remodeling is essential for maintaining healthy
-        bones</p>
-      </list-item>
-      <list-item>
-        <p>It keeps bones strong and supports overall body function</p>
-      </list-item>
-    </list>
-    <p>(<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
-    1984</xref>).</p>
-  </sec>
+<sec id="importance-of-bone-remodeling">
+  <title>Importance of Bone Remodeling</title>
+  <p>Bone remodeling maintains bone mechanical competence by replacing
+  old bone with newly formed bone without altering overall bone shape.
+  It also plays a critical role in systemic mineral regulation,
+  particularly calcium homeostasis. Disruptions in this balance can
+  lead</p>
 </sec>
 </body>
 
 <back>
-<ref-list>
-  <title></title>
-  <ref id="ref-knuth84">
-    <element-citation publication-type="article-journal">
-      <person-group person-group-type="author">
-        <name><surname>Knuth</surname><given-names>Donald E.</given-names></name>
-      </person-group>
-      <article-title>Literate programming</article-title>
-      <source>Comput. J.</source>
-      <publisher-name>Oxford University Press, Inc.</publisher-name>
-      <publisher-loc>USA</publisher-loc>
-      <year iso-8601-date="1984-05">1984</year><month>05</month>
-      <volume>27</volume>
-      <issue>2</issue>
-      <issn>0010-4620</issn>
-      <uri>https://doi.org/10.1093/comjnl/27.2.97</uri>
-      <pub-id pub-id-type="doi">10.1093/comjnl/27.2.97</pub-id>
-      <fpage>97</fpage>
-      <lpage>111</lpage>
-    </element-citation>
-  </ref>
-</ref-list>
 </back>
 
 
